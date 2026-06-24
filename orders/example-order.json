@@ -1,0 +1,13 @@
+{
+  "order": "DEMO-001",
+  "customer": "示例客户",
+  "petpkg": "release/starter.petpkg",
+  "notes": "示例订单：用于验证 UTF-8 中文客户名不会在交付清单中乱码。",
+  "rightsConfirmed": true,
+  "supportScopeConfirmed": true,
+  "evidence": {
+    "contactSheet": "release/starter-contact-sheet.png",
+    "report": "release/starter-report.json",
+    "productionChecklist": "orders/example-production.md"
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-23T11:08:49.941Z",
+  "packageFile": "C:\\AIsoft\\桌宠\\desktop-pet\\dist\\starter.petpkg",
+  "manifest": {
+    "schemaVersion": 1,
+    "id": "starter",
+    "displayName": "Starter Pet",
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "sprite": "spritesheet.webp",
+    "defaultState": "idle",
+    "states": {
+      "idle": {
+        "row": 0,
+        "frames": 6,
+        "fps": 6,
+        "loop": true
+      },
+      "runRight": {
+        "row": 1,
+        "frames": 8,
+        "fps": 12,
+        "loop": true
+      },
+      "runLeft": {
+        "row": 2,
+        "frames": 8,
+        "fps": 12,
+        "loop": true
+      },
+      "jump": {
+        "row": 3,
+        "frames": 6,
+        "fps": 10,
+        "loop": false
+      },
+      "play": {
+        "row": 4,
+        "frames": 6,
+        "fps": 8,
+        "loop": false
+      },
+      "sleep": {
+        "row": 5,
+        "frames": 6,
+        "fps": 4,
+        "loop": true
+      },
+      "interact": {
+        "row": 6,
+        "frames": 6,
+        "fps": 8,
+        "loop": false
+      }
+    }
+  },
+  "source": {
+    "root": "C:\\AIsoft\\桌宠\\desktop-pet\\sample-pets\\starter",
+    "maxFrames": 8,
+    "frameCount": 46
+  },
+  "frames": [
+    {
+      "state": "idle",
+      "file": "idle/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2892
+    },
+    {
+      "state": "idle",
+      "file": "idle/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2846
+    },
+    {
+      "state": "idle",
+      "file": "idle/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.286
+    },
+    {
+      "state": "idle",
+      "file": "idle/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2922
+    },
+    {
+      "state": "idle",
+      "file": "idle/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2942
+    },
+    {
+      "state": "idle",
+      "file": "idle/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2892
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2939
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2888
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2866
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2872
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2904
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2924
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/006.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2899
+    },
+    {
+      "state": "runRight",
+      "file": "run-right/007.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2843
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2843
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2802
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2807
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2853
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2917
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2958
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/006.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.296
+    },
+    {
+      "state": "runLeft",
+      "file": "run-left/007.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2939
+    },
+    {
+      "state": "jump",
+      "file": "jump/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.294
+    },
+    {
+      "state": "jump",
+      "file": "jump/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.302
+    },
+    {
+      "state": "jump",
+      "file": "jump/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2965
+    },
+    {
+      "state": "jump",
+      "file": "jump/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2978
+    },
+    {
+      "state": "jump",
+      "file": "jump/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.3037
+    },
+    {
+      "state": "jump",
+      "file": "jump/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.294
+    },
+    {
+      "state": "play",
+      "file": "play/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2888
+    },
+    {
+      "state": "play",
+      "file": "play/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2858
+    },
+    {
+      "state": "play",
+      "file": "play/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2868
+    },
+    {
+      "state": "play",
+      "file": "play/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2915
+    },
+    {
+      "state": "play",
+      "file": "play/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2932
+    },
+    {
+      "state": "play",
+      "file": "play/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2888
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2892
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2846
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.286
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2922
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2942
+    },
+    {
+      "state": "sleep",
+      "file": "sleep/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2892
+    },
+    {
+      "state": "interact",
+      "file": "interact/000.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2888
+    },
+    {
+      "state": "interact",
+      "file": "interact/001.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2858
+    },
+    {
+      "state": "interact",
+      "file": "interact/002.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2868
+    },
+    {
+      "state": "interact",
+      "file": "interact/003.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2915
+    },
+    {
+      "state": "interact",
+      "file": "interact/004.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2932
+    },
+    {
+      "state": "interact",
+      "file": "interact/005.png",
+      "width": 512,
+      "height": 512,
+      "hasAlpha": true,
+      "opaqueRatio": 0.2888
+    }
+  ],
+  "qaChecklist": [
+    "Open contact-sheet.png and confirm identity consistency.",
+    "Import the .petpkg into DesktopPet before customer delivery.",
+    "Check that no frame has text, background, detached effects, or cropped body parts."
+  ]
+}

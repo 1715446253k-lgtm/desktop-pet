@@ -1,0 +1,24 @@
+MiraPet Runtime Notice
+
+This notice is provided for operational use and should be reviewed by qualified legal counsel before public sale.
+
+1. Open-source runtime
+The MiraPet desktop runtime is distributed under the MIT License. The runtime may be used, copied, modified, and redistributed under the terms in the project LICENSE file.
+
+2. Custom pet packages
+Imported .petpkg files, generated frames, reference images, and customer-specific character art are licensed separately from the open-source runtime. A customer delivery may allow personal desktop use only unless a separate written agreement grants broader rights.
+
+3. Customer assets
+The customer is responsible for confirming that submitted reference images, generated frames, and resulting pet packages do not infringe third-party rights.
+
+4. Support
+Paid support covers custom pet production, installation, import, startup, and runtime issues for delivered packages. Redesign work, new animation states, or replacement art may require a separate production order.
+
+5. Diagnostics
+Diagnostics may include app version, app data path, settings, and pet manifest summaries. Diagnostics should not include customer sprite image bytes.
+
+6. Warranty
+The software is provided as-is to the maximum extent permitted by law.
+
+7. Contact
+Replace this section with your business contact before public release.

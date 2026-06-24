@@ -1,0 +1,15 @@
+{
+  "id": "customer_pet",
+  "displayName": "Customer Pet",
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "states": {
+    "idle": { "fps": 6, "loop": true },
+    "runRight": { "fps": 12, "loop": true },
+    "runLeft": { "fps": 12, "loop": true },
+    "jump": { "fps": 10, "loop": false },
+    "play": { "fps": 8, "loop": false },
+    "sleep": { "fps": 4, "loop": true },
+    "interact": { "fps": 8, "loop": false }
+  }
+}

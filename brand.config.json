@@ -1,0 +1,10 @@
+{
+  "productName": "MiraPet",
+  "studioName": "MiraPet Studio",
+  "identifier": "com.mirapet.studio",
+  "packageName": "mirapet",
+  "version": "0.1.0",
+  "author": "MiraPet Studio",
+  "description": "Open-source desktop pet runtime and pet package builder for custom pet services.",
+  "installerBaseName": "MiraPet_0.1.0_x64-setup.exe"
+}
