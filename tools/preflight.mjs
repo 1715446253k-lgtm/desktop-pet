@@ -37,6 +37,7 @@ function checkRequiredFiles() {
     "LICENSE",
     "CONTRIBUTING.md",
     "SECURITY.md",
+    "CHANGELOG.md",
     ".github/workflows/ci.yml",
     "src-tauri/EULA.txt",
     "src-tauri/resources/default-pet/pet.json",

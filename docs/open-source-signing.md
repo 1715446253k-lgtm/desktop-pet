@@ -41,6 +41,10 @@ SignPath Foundation project requirements are documented here:
 - [ ] The project has at least one public release.
 - [ ] Contact and maintainer information are present.
 
+Current public repository:
+
+- https://github.com/1715446253k-lgtm/desktop-pet
+
 ## Private Asset Rule
 
 Keep these out of the public repository:

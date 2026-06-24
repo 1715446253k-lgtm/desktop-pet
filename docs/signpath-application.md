@@ -51,6 +51,6 @@ Private:
 
 ## Links To Provide
 
-- Public repository URL: fill after GitHub repository is created.
-- Release URL: fill after first public release is published.
+- Public repository URL: https://github.com/1715446253k-lgtm/desktop-pet
+- Release URL: https://github.com/1715446253k-lgtm/desktop-pet/releases/tag/v0.1.0
 - Project website: optional.
