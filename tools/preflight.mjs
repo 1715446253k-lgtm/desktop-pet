@@ -38,6 +38,7 @@ function checkRequiredFiles() {
     "CONTRIBUTING.md",
     "SECURITY.md",
     "PRIVACY.md",
+    "DOWNLOAD.md",
     "CHANGELOG.md",
     ".github/workflows/ci.yml",
     "src-tauri/EULA.txt",

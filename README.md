@@ -25,6 +25,7 @@ Branding instructions are in `docs/branding.md`.
 Customer operations are in `docs/customer-operations.md`.
 Open-source signing preparation is in `docs/open-source-signing.md`.
 Privacy policy is in `PRIVACY.md`.
+Download information is in `DOWNLOAD.md`.
 
 ## Development
 
